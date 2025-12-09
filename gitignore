@@ -1,0 +1,12 @@
+bot_data.db
+user_files/
+__pycache__/
+*.pyc
+.env
+*.log
+__pycache__
+.DS_Store
+venv/
+env/
+*.db
+*.sqlite3

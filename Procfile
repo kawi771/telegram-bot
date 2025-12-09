@@ -1,0 +1,1 @@
+worker: python kawi_bot.py
